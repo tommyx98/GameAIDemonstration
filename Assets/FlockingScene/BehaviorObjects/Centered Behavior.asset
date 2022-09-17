@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5898d5d0a38bc3644b97cf0e554b4d32, type: 3}
+  m_Name: Centered Behavior
+  m_EditorClassIdentifier: 
+  behaviors:
+  - {fileID: 11400000, guid: 5ea98539d56ed9346a14f5278a2205e9, type: 2}
+  - {fileID: 11400000, guid: c70ffd683f53d334fb6d22e5873f83cc, type: 2}
+  - {fileID: 11400000, guid: c76683cb633318b4896583a60579b1cf, type: 2}
+  - {fileID: 11400000, guid: 02d2c70f80c486c43a47349e138a576b, type: 2}
+  behaviorWeights:
+  - 0.5
+  - 4
+  - 2
+  - 0.1

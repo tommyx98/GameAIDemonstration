@@ -1,0 +1,5 @@
+Move - WASD
+Find Exit 1 - 1
+Find Exit 2 - 2
+Find Exit 3 - 3
+Find Exit 4 - 4
