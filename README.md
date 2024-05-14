@@ -7,7 +7,7 @@ This project demonstrates various forms of game AI through the development of a 
 ## Features
 
 ### Implemented AI Techniques
-1. **A* Pathfinding**: Utilized in the main scene for navigating through a maze.
+1. **A\* Pathfinding**: Utilized in the main scene for navigating through a maze.
 2. **Steering Behaviors**:
     - Flocking
     - Separation
